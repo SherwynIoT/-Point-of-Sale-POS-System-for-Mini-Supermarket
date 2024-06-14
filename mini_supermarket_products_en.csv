@@ -1,0 +1,51 @@
+name,id,price,nums,date,unit
+Aquafina Water 500ml,ID001,20283,71,2024-08-26,bottle
+Sandwich Bread,ID002,21033,78,2024-10-10,pack
+Vinamilk Fresh Milk 1L,ID003,48207,19,2025-05-04,box
+Hao Hao Instant Noodles,ID004,96424,90,2024-11-09,piece
+Coca-Cola 330ml,ID005,84439,54,2025-02-11,kg
+Orion Chocopie,ID006,67263,70,2025-04-11,liter
+Colgate Toothpaste 100g,ID007,17370,10,2025-05-29,box
+Lifebuoy Soap 90g,ID008,58363,20,2024-07-26,pack
+Fresh Eggs (pack of 10),ID009,70841,51,2024-11-08,bottle
+Jasmine Fragrant Rice 5kg,ID010,74445,22,2024-12-06,kg
+Neptune Cooking Oil 1L,ID011,39485,50,2025-01-28,bottle
+White Sugar 1kg,ID012,55791,56,2024-09-24,pack
+Iodized Salt 500g,ID013,25296,82,2025-06-08,box
+OMO Detergent 400g,ID014,7114,68,2024-09-10,piece
+Vinamilk Yogurt 100g,ID015,65791,88,2025-03-04,kg
+Nam Ngu Fish Sauce 500ml,ID016,35832,61,2024-07-21,liter
+Sunlight Dishwashing Liquid 750ml,ID017,85617,70,2024-12-24,box
+Instant Beef Pho,ID018,36832,37,2025-02-02,pack
+Dole Canned Fruits,ID019,42207,76,2024-12-11,bottle
+Poca Snack,ID020,11482,83,2024-08-11,kg
+LU Biscuits,ID021,9991,200,2025-03-13,bottle
+Fami Soy Milk,ID022,88448,200,2024-07-14,pack
+Trung Nguyen Coffee,ID023,53024,100,2025-06-04,box
+C2 Green Tea,ID024,61215,46,2024-07-22,piece
+Heinz Tomato Sauce 300g,ID025,64836,59,2025-05-27,kg
+Clear Shampoo 100ml,ID026,47303,41,2025-01-15,liter
+Dove Body Wash 250ml,ID027,42603,62,2024-12-28,box
+Merino Ice Cream,ID028,38494,97,2025-03-14,pack
+KitKat Wafer,ID029,74345,90,2024-07-13,bottle
+Laughing Cow Cheese,ID030,14557,41,2025-04-10,kg
+Chinsu Chili Sauce,ID031,62960,200,2024-08-02,bottle
+Pepsi,ID032,13103,100,2025-01-09,pack
+Coconut Water,ID033,36259,100,2025-04-26,box
+Spring Roll Wrapper,ID034,38561,87,2024-12-17,piece
+Dried Beef,ID035,42081,35,2025-03-28,kg
+Organic Brown Rice,ID036,9169,42,2025-05-17,liter
+Hoang Yen Jelly,ID037,87704,200,2024-10-13,box
+Natural Honey,ID038,46716,100,2025-02-21,pack
+All-purpose Flour,ID039,55421,100,2025-03-22,bottle
+Mr. Tho Condensed Milk,ID040,74348,91,2024-09-21,kg
+Maggi Soy Sauce,ID041,23099,19,2025-02-03,bottle
+Complete Seasoning,ID042,7277,42,2025-04-01,pack
+Ajinomoto MSG,ID043,76352,28,2024-07-26,box
+Crispy Flour,ID044,96832,81,2024-10-11,piece
+Knorr Seasoning,ID045,50285,40,2024-10-14,kg
+Lee Kum Kee Black Bean Sauce,ID046,90101,67,2024-09-21,liter
+Pulppy Toilet Paper,ID047,24989,51,2025-06-08,box
+Wet Wipes,ID048,40322,44,2025-02-03,pack
+Aji-ngon Seasoning Powder,ID049,87115,60,2024-10-19,bottle
+Sweet Bread,ID050,9023,59,2024-07-23,kg
